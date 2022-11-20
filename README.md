@@ -37,3 +37,11 @@ https://goerli.etherscan.io/address/0x62a2a915860310e2302965cd3a41b83A4e11297C
 
 
 > Some transactions failed with an **out of gas** error and were executed again to ensure every one received the tokens.
+
+### Other transactions (transfers, delegation, ...)
+
+Jeremy Bernard (self-delegation, has 5 voting power units)
+https://goerli.etherscan.io/tx/0xea156389bc300a55b6ed9e77492102cfe034a6a861ae5b8d287e3487e365b61d
+
+
+## Ballot contract
