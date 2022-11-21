@@ -43,5 +43,11 @@ https://goerli.etherscan.io/address/0x62a2a915860310e2302965cd3a41b83A4e11297C
 Jeremy Bernard (self-delegation, has 5 voting power units)
 https://goerli.etherscan.io/tx/0xea156389bc300a55b6ed9e77492102cfe034a6a861ae5b8d287e3487e365b61d
 
+Jeremy Bernard transfers 1 token to himself (still has 5 voting power units)
+https://goerli.etherscan.io/tx/0xddc5f5a912dc2cd0b384398af8793cc6cf2f77d3324ccc43d268277dd1c9556a
+
+Jeremy Bernard transfers 1 token to Alessandro Morandi (Jeremy has 4 tokens, 4 voting power units, Alessandro has 6 tokens, 0 voting power units)
+https://goerli.etherscan.io/tx/0xc9a10a4cea55c6faaeea84c1e3dab480b50c964c45a5fe496e140896399dcea1
+
 
 ## Ballot contract
