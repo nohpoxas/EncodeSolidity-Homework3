@@ -61,5 +61,9 @@ https://goerli.etherscan.io/tx/0x08c0480959c2c5aeeac64cc427c90ae459e416898bc1535
 José Henrique K. Ambiel transfers to Marcello Rigotti (José Henrique K. Ambiel has 3 tokens, 0 voting power units, Jeremy Bernard has 4 tokens, 7 voting power units, Marcello Rigotti has has 6 tokens, 6 voting power)
 https://goerli.etherscan.io/tx/0xc575f68f7dc527511738325a9fb8638cefcccae4598806e0d3616b2bdf473093
 
+Alessandro Morandi (self-delegation, has 7 voting power units)
+https://goerli.etherscan.io/tx/0x77b42991f55c01b9d7f756c50da4ac5d396c1df744ef647086116b84dbc10347
+
+
 
 ## Ballot contract

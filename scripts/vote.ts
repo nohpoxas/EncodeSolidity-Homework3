@@ -13,7 +13,8 @@ async function main() {
         throw new Error("Usage: yarn run ts-node --files scripts/get-past-votes.ts <indexOfProposal> <AmountToUse>");
     }
 
-    const wallet = ethers.Wallet.fromMnemonic(process.env.MNEMONIC ?? "");
+    //const wallet = ethers.Wallet.fromMnemonic(process.env.MNEMONIC ?? "");
+    const wallet = new ethers.Wallet(process.env.PRIVATE_KEY ?? "")
     // const provider = ethers.getDefaultProvider("goerli");
     
     // Use custom provider like Infura or Alchemy
