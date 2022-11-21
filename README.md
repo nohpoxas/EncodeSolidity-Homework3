@@ -55,7 +55,10 @@ https://goerli.etherscan.io/tx/0xe95ad73dea9ba5d35f15a5875be4a997022a346e720e6c2
 José Henrique K. Ambiel delegates to Jeremy Bernard (José Henrique K. Ambiel has 4 tokens, 0 voting power units, Jeremy Bernard has 4 tokens, 8 voting power units)
 https://goerli.etherscan.io/tx/0xe95ad73dea9ba5d35f15a5875be4a997022a346e720e6c2b4c253ab43820fe54
 
-José Henrique K. Ambiel transfers to Marcello Rigotti (José Henrique K. Ambiel has 3 tokens, 0 voting power units, Jeremy Bernard has 4 tokens, 7 voting power units, Marcello Rigotti has has 6 tokens, 0 voting power)
+Marcello Rigotti (self-delegation, has 5 voting power units)
+https://goerli.etherscan.io/tx/0x08c0480959c2c5aeeac64cc427c90ae459e416898bc15353f4a94f360e70b756
+
+José Henrique K. Ambiel transfers to Marcello Rigotti (José Henrique K. Ambiel has 3 tokens, 0 voting power units, Jeremy Bernard has 4 tokens, 7 voting power units, Marcello Rigotti has has 6 tokens, 6 voting power)
 https://goerli.etherscan.io/tx/0xc575f68f7dc527511738325a9fb8638cefcccae4598806e0d3616b2bdf473093
 
 
