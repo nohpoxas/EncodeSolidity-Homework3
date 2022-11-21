@@ -79,3 +79,6 @@ https://goerli.etherscan.io/tx/0xaa0e57d3fe5f2f4d092fb9ef6f11ff55e8524b043b1953a
 
 Marcello Rigotti voted Chocolate with amount = 3
 https://goerli.etherscan.io/address/0x793a692ff75da4a0fc63e6600bc845bc4707fd06
+
+Sobhan Bahrami voted on Lime with amount 1 and because of no voting power transaction was failed
+https://goerli.etherscan.io/tx/0x88a3e5f0b910c4d925aee186ea0e8599a23543e4fc52f88e8d145ef2773c4bb9
