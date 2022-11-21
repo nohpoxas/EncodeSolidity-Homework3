@@ -102,5 +102,5 @@ https://goerli.etherscan.io/tx/0x88a3e5f0b910c4d925aee186ea0e8599a23543e4fc52f88
 Sobhan Bahrami voted on Lime with amount 1 and because of no voting power transaction was failed
 https://goerli.etherscan.io/tx/0x88a3e5f0b910c4d925aee186ea0e8599a23543e4fc52f88e8d145ef2773c4bb9
 
-Alessandro Morandi votend for chocalate ( 7 votes ) 
-https://goerli.etherscan.io/tx/0x378a52ef31e9efae37b05b68d89b1c8251419df390b5ac4f2cd4c67da5ff8d88
+José Henrique K. Ambiel voted on Chocolate with amount 1 and because 0 voting power transaction failed
+https://goerli.etherscan.io/tx/0x346ee301ac04a761537573cb4ffeae1f763befbf29cb3b6871784fd70dce1ac7
