@@ -76,3 +76,6 @@ https://goerli.etherscan.io/tx/0x16cefcfd18f2ea4ce73eb61765834817ddb4be9d1bccea3
 
 Deployed at address `0x793A692FF75DA4a0Fc63E6600Bc845BC4707fd06` with targetBlockNumber `7994331`.
 https://goerli.etherscan.io/tx/0xaa0e57d3fe5f2f4d092fb9ef6f11ff55e8524b043b1953ac11af60cb57fb6536
+
+Marcello Rigotti voted Chocolate with amount = 3
+https://goerli.etherscan.io/address/0x793a692ff75da4a0fc63e6600bc845bc4707fd06
