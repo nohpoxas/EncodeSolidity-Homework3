@@ -12,8 +12,7 @@ async function main() {
     const proposals = ['Chocolate','Vanilla','Strawberry','Lime'];
 
     const ballotContractFactory = new TokenizedBallot__factory(signer);
-    const ballotContract = await tokenContractFactory.deploy(proposals.map((prop) => ethers.utils.formatBytes32String(prop)),
-        process.env.TOKEN_CONTRACT_ADDRESS ?? "", TARGET_BLOCK_NUMBER);
+    const ballotContract = await ballotContractFactory.deploy(proposals.map((prop) => ethers.utils.formatBytes32String(prop)),process.env.TOKEN_CONTRACT_ADDRESS ?? "", TARGET_BLOCK_NUMBER);
     await ballotContract.deployed();
     console.log(`The tokenizedBallot contract has been deployed at address ${ballotContract.address}.`)
 }
