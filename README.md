@@ -64,6 +64,11 @@ https://goerli.etherscan.io/tx/0xc575f68f7dc527511738325a9fb8638cefcccae4598806e
 Alessandro Morandi (self-delegation, has 7 voting power units)
 https://goerli.etherscan.io/tx/0x77b42991f55c01b9d7f756c50da4ac5d396c1df744ef647086116b84dbc10347
 
+Sobhan Bahrami (self-delegation, has 5 voting power units) - 0 voting 
+https://goerli.etherscan.io/tx/0x493e4a4706c080a38463c8bfa2febf1b82749959c8c2611831d0e43854c4f233
+Sobhan Bahrami (delegated all power to 0xc87a65ce2f3bb07c7a59ac0643a56e34a9d531a7 - Jeremy)
+https://goerli.etherscan.io/tx/0x16cefcfd18f2ea4ce73eb61765834817ddb4be9d1bccea3a5fee6e6e69bb8ccc
+
 
 
 ## Ballot contract
