@@ -10,7 +10,9 @@ interface IMyToken {
 }
 
 contract TokenizedBallot {
+
     IMyToken public myToken;
+    uint256 public targetBlockNumber;
 
     struct Proposal {
         bytes32 name;
@@ -21,8 +23,9 @@ contract TokenizedBallot {
 
     Proposal[] public proposals;
 
-    constructor(bytes32[] memory proposalNames, address _myToken) {
+    constructor(bytes32[] memory proposalNames, address _myToken, uint256 _targetBlockNumber) {
         myToken = IMyToken(_myToken);
+        targetBlockNumber = _targetBlockNumber;
         for (uint256 i = 0; i < proposalNames.length; i++) {
             proposals.push(Proposal({name: proposalNames[i], voteCount: 0}));
         }
@@ -35,7 +38,7 @@ contract TokenizedBallot {
     }
 
     function votePower(address account) public view returns (uint256) {
-        return myToken.getPastVotes(account, 1) - spentVotePower[account];
+        return myToken.getPastVotes(account, targetBlockNumber) - spentVotePower[account];
     }
 
     function winningProposal() public view returns (uint256 winningProposal_) {
