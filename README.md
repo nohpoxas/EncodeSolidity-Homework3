@@ -63,3 +63,6 @@ https://goerli.etherscan.io/tx/0xc575f68f7dc527511738325a9fb8638cefcccae4598806e
 
 
 ## Ballot contract
+
+Deployed at address `0x793A692FF75DA4a0Fc63E6600Bc845BC4707fd06` with targetBlockNumber `7994331`.
+https://goerli.etherscan.io/tx/0xaa0e57d3fe5f2f4d092fb9ef6f11ff55e8524b043b1953ac11af60cb57fb6536
