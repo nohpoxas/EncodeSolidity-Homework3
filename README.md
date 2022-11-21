@@ -49,5 +49,11 @@ https://goerli.etherscan.io/tx/0xddc5f5a912dc2cd0b384398af8793cc6cf2f77d3324ccc4
 Jeremy Bernard transfers 1 token to Alessandro Morandi (Jeremy has 4 tokens, 4 voting power units, Alessandro has 6 tokens, 0 voting power units)
 https://goerli.etherscan.io/tx/0xc9a10a4cea55c6faaeea84c1e3dab480b50c964c45a5fe496e140896399dcea1
 
+José Henrique K. Ambiel transfers 1 token to Alessandro Morandi (José Henrique K. Ambiel has 4 tokens, 0 voting power units, Alessandro has 7 tokens, 0 voting power units)
+https://goerli.etherscan.io/tx/0xe95ad73dea9ba5d35f15a5875be4a997022a346e720e6c2b4c253ab43820fe54
+
+José Henrique K. Ambiel delegates to Jeremy Bernard (José Henrique K. Ambiel has 4 tokens, 0 voting power units, Jeremy Bernard has 5 tokens, 9 voting power units)
+https://goerli.etherscan.io/tx/0xe95ad73dea9ba5d35f15a5875be4a997022a346e720e6c2b4c253ab43820fe54
+
 
 ## Ballot contract
