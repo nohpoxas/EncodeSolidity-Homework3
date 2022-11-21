@@ -94,7 +94,10 @@ Deployed at address `0x793A692FF75DA4a0Fc63E6600Bc845BC4707fd06` with targetBloc
 https://goerli.etherscan.io/tx/0xaa0e57d3fe5f2f4d092fb9ef6f11ff55e8524b043b1953ac11af60cb57fb6536
 
 Marcello Rigotti voted Chocolate with amount = 3, voting power left = 3
-https://goerli.etherscan.io/address/0x793a692ff75da4a0fc63e6600bc845bc4707fd06
+https://goerli.etherscan.io/tx/0x44eff117c9c725d62f47f26e110abc44c136c93f250fbf6a5042a14a1a611359
 
 Marcello Rigotti voted Vanilla with amount = 3, voting power left = 0
+https://goerli.etherscan.io/tx/0x88a3e5f0b910c4d925aee186ea0e8599a23543e4fc52f88e8d145ef2773c4bb9
+
+Sobhan Bahrami voted on Lime with amount 1 and because of no voting power transaction was failed
 https://goerli.etherscan.io/tx/0x88a3e5f0b910c4d925aee186ea0e8599a23543e4fc52f88e8d145ef2773c4bb9
