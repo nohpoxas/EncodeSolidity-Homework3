@@ -4,7 +4,8 @@ import * as dotenv from "dotenv";
 dotenv.config();
 
 async function main() {
-    const wallet = ethers.Wallet.fromMnemonic(process.env.MNEMONIC ?? "");
+    const wallet = new ethers.Wallet(process.env.PRIVATE_KEY ?? "")
+    //const wallet = ethers.Wallet.fromMnemonic(process.env.MNEMONIC ?? "");
     const infuraProvider = new ethers.providers.InfuraProvider("goerli", process.env.INFURA_API_KEY);
     const signer = wallet.connect(infuraProvider);
 

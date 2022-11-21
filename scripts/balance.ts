@@ -1,10 +1,12 @@
 import { ethers } from "ethers";
 import { MyToken__factory } from "../typechain-types";
 import * as dotenv from "dotenv";
+import { Console } from "console";
 dotenv.config();
 
 async function main() {
-    const wallet = ethers.Wallet.fromMnemonic(process.env.MNEMONIC ?? "");
+    const wallet = new ethers.Wallet(process.env.PRIVATE_KEY ?? "")
+    //const wallet = ethers.Wallet.fromMnemonic(process.env.MNEMONIC ?? "");
     const infuraProvider = new ethers.providers.InfuraProvider("goerli", process.env.INFURA_API_KEY);
     const signer = wallet.connect(infuraProvider);
 
